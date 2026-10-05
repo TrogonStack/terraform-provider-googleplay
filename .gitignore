@@ -1,0 +1,3 @@
+.semrel/
+.terraform/
+terraform-provider-googleplay
